@@ -16,7 +16,7 @@ hasil Latihan 3<br>
 ![alt text](https://github.com/mesati/jobsheet_5/blob/master/3.4.PNG)
 <br>
 hasil Latihan 4<br>
-![alt text](https://github.com/mesati/jobsheet_5/blob/master/4a.PNG)
+![alt text](https://github.com/mesati/jobsheet_5/blob/master/4a.png)
 <br>
 ![alt text](https://github.com/mesati/jobsheet_5/blob/master/4b.PNG)
 <br>
